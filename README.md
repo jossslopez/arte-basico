@@ -16,7 +16,7 @@ Creada por **Joss López** ([@Jossslopez](https://www.youtube.com/@Jossslopez)).
 | `/launch` | Gráfica de lanzamiento con titular y firma |
 | `/analogy` | Producto convertido en una analogía de su beneficio |
 
-El skill analiza primero la geometría, los materiales, la paleta y los códigos de marca del producto. Después aplica una dirección de arte específica sin cambiar deliberadamente el diseño, el logotipo ni el texto del envase.
+El skill analiza primero la geometría, los materiales, la paleta y los códigos de marca del producto. Después define una frase creativa, un recurso visual y una tensión compositiva antes de decidir la luz, la óptica o el fondo. La revisión final bloquea resultados genéricos, productos flotantes y layouts de plantilla sin cambiar deliberadamente el diseño, el logotipo ni el texto del envase.
 
 ## Uso rápido
 
