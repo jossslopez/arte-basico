@@ -1,5 +1,6 @@
 ---
 name: arte-basico
+license: CC-BY-NC-SA-4.0
 description: >-
   Creatividad publicitaria de producto por comandos, versión básica de cinco.
   Convierte la foto de un producto en una pieza con dirección de arte pensada:

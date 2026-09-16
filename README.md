@@ -1,5 +1,7 @@
 # arte-basico
 
+[![Licencia: CC BY-NC-SA 4.0](https://img.shields.io/badge/licencia-CC%20BY--NC--SA%204.0-6C3BEF.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
 Skill abierta de dirección de arte publicitaria para transformar una fotografía de producto en una creatividad con decisiones explícitas de composición, luz, óptica, paleta y jerarquía.
 
 Creada por **Joss López** ([@Jossslopez](https://www.youtube.com/@Jossslopez)).
@@ -56,6 +58,8 @@ arte-basico/
 ## Licencia
 
 Salvo indicación expresa, el contenido de este repositorio —incluidos `SKILL.md`, la documentación y el PDF— se publica bajo **Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional (CC BY-NC-SA 4.0)**.
+
+Identificador SPDX: `CC-BY-NC-SA-4.0`.
 
 En resumen, puedes compartirlo y adaptarlo para fines no comerciales si:
 

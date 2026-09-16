@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "Si utilizas o adaptas este skill, cita al autor y enlaza el repositorio original."
+title: "arte-basico"
+type: software
+authors:
+  - family-names: "López"
+    given-names: "Joss"
+license: "CC-BY-NC-SA-4.0"
+version: "1.0.0"
+date-released: "2026-09-16"
+url: "https://github.com/jossslopez/arte-basico"
+abstract: "Skill de dirección de arte publicitaria para transformar fotografías de producto mediante cinco comandos visuales."
