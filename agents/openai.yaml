@@ -1,0 +1,8 @@
+interface:
+  display_name: "Arte básico"
+  short_description: "Dirección de arte publicitaria para productos"
+  brand_color: "#6C3BEF"
+  default_prompt: "Usa $arte-basico con la imagen adjunta y aplica /launch."
+
+policy:
+  allow_implicit_invocation: true
